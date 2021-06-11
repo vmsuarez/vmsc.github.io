@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title> Víkko Manuel Suárez Casanova, M.S.</title>
@@ -28,4 +27,4 @@
 		</footer>
 	</body>
 </html>
-4
+
